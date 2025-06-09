@@ -37,6 +37,9 @@ Use this program to make custom images, resize png before converting.
 https://github.com/bitbank2/image_to_c
 
 
+![image](https://github.com/user-attachments/assets/6bb59421-5b14-42d9-95f3-d31cd81d2f54)
+![image](https://github.com/user-attachments/assets/fe7ca4c9-ac79-4403-a8a8-dba23d232738)
+
 ### 2️⃣ Install Required Libraries
 - Extract the `libraries.zip` file into your Arduino libraries folder (`Documents/Arduino/libraries/`).
 - If you prefer manual installation, ensure you have the following libraries installed:
