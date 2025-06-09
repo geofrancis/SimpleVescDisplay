@@ -32,7 +32,7 @@ Follow these steps to set up the project on your ESP32-2432S028:
   ```
 - Go to **Tools** > **Board** > **Boards Manager**, search for "ESP32," and install the latest ESP32 board package.
 
-Use this program to make custom images, resize png before converting. 
+Use this program to make custom images, resize png file to 320x240 before converting. 
 
 https://github.com/bitbank2/image_to_c
 
