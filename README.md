@@ -32,6 +32,11 @@ Follow these steps to set up the project on your ESP32-2432S028:
   ```
 - Go to **Tools** > **Board** > **Boards Manager**, search for "ESP32," and install the latest ESP32 board package.
 
+Use this program to make custom images, resize png before converting. 
+
+https://github.com/bitbank2/image_to_c
+
+
 ### 2️⃣ Install Required Libraries
 - Extract the `libraries.zip` file into your Arduino libraries folder (`Documents/Arduino/libraries/`).
 - If you prefer manual installation, ensure you have the following libraries installed:
